@@ -1,0 +1,2 @@
+# ADEL Token Purpose
+

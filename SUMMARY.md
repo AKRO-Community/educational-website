@@ -1,4 +1,21 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction to Delphi](README.md)
+* [How To Use Delphi](how-to-use-delphi.md)
+* [Why Use DeFi for Banking?](why-use-defi-for-banking.md)
+* [Why Liquidity Pools?](why-liquidity-pools.md)
+* [Delphi Liquidity Pool Types](delphipools/README.md)
+  * [Delphi Save](delphipools/save.md)
+  * [Delphi Invest](delphipools/invest.md)
+  * [Delphi DCA](delphipools/dca.md)
+  * [Delphi Staking](delphipools/stake.md)
+* [ADEL Token Purpose](adel-token-purpose.md)
+* [Delphi Governance](delphi-governance.md)
+* [Delphi APY Rates](delphi-apy-rates.md)
+* [APY Reward Distribution](apy-reward-distribution.md)
+* [Delphi Partnerships](partnerships.md)
+* [Smart Contract Risks](smart-contract-risks.md)
+* [Gas Fees](gas-fees.md)
+* [Delphi FAQ](delphi-faq.md)
+* [Delphi Strategies \(Coming Soon\)](delphi-strategies-coming-soon.md)
 
