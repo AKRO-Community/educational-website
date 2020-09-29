@@ -1,0 +1,2 @@
+# AKRO Token Purpose
+
